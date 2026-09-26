@@ -5,32 +5,7 @@
 
 <div align="center">
 
-```
-                              {}
-                            oIIo
-                            oIIo
-                             ||
-                             ||
-                             I.
-                             ||
-                            |:
-                            ||
-                           |:
-                          .' ||
-                         .    |:
-                        /     ||     \
-                       |    ::    |
-                      |:                  )_   ::   _(
-                      |:                   _)( :: )(_
-                      |:                  ) ._)::(_. (
-                      |:                 /     II     \
-                      |:                 |  .-.||     |
-                      |:                  \(___)(    /
-                      |:.__/__.'
-                      I'
-```
-
-# RÓMULO DOS SANTOS SALOBREÑA
+# ROMULO SALOBREÑA
 
 `violista` · `full stack dev` · `sec+ in training` · `homelabber`
 
