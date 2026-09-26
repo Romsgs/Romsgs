@@ -19,9 +19,7 @@ $ cat identity.log
 
 ```
 [USER]      Rómulo dos Santos Salobreña
-[CITIZEN]   🇧🇷 Brazil / 🇪🇸 Spain
-[BASE]      Europe
-[ROLE]      Musician · Developer · Cybersecurity Student
+[ROLE]      Musician · Developer · Cybersecurity
 [STATUS]    music ∩ code ∩ linux ∩ infra ∩ security
 ```
 
