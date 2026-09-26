@@ -32,24 +32,27 @@ main_instrument: viola
 training:
   - Cefart / Palácio das Artes — Viola
   - UFMG — Bacharelado em Música, habilitação Viola
-plays: [viola, violin/fiddle, bouzouki (GDAD), bodhrán, electric guitar, bass, vocals]
+plays: [viola, violin/fiddle, Irish bouzouki, bodhrán, electric guitar, bass, vocals]
 project: Salobard
-  genre: medieval / celtic reinterpretations, heavier arrangements
-  gear: [traditional instruments, electric guitar rig]
+  genre: bardcore / medieval / celtic reinterpretations, heavier arrangements
+  gear: [traditional instruments, vocals]
+project: Area 31
+  genre: neo_Gruge
+  gear: [electric guitar rig, bass, drums, vocals]
+
 ```
 
 ### `>_ development`
 
 ```yaml
-languages: [Python, TypeScript, JavaScript, C/C++, Arduino]
-stack: [Node.js, Express, MongoDB, HTML/CSS, Git]
+languages: [Python, TypeScript, JavaScript, C/C++ (Arduino)]
+stack: [Node.js, Express, FastAPI, MongoDB, HTML/CSS, Git]
 experience:
   - Junior Backend Developer @ QESH Payments (fintech)
   - Data Analyst & Engineer @ Blossom Consult
-philosophy: build real, working, self-contained things — not partial demos
 ```
 
-### `>_ projects`
+### `>_ best projects`
 
 ```
 ├── personal-siem/
@@ -68,11 +71,10 @@ philosophy: build real, working, self-contained things — not partial demos
 
 ```yaml
 node: Orange Pi 5 (8GB RAM)
-os: Debian 12
+os: Debian Bookworm server
 services: [Docker, Portainer, Nextcloud]
 storage: NVMe
 learning: [linux, networking, containers, monitoring, self-hosting]
-interests: [Raspberry Pi, x86 hardware, NAS, home automation]
 ```
 
 ### `>_ cybersecurity`
@@ -80,14 +82,6 @@ interests: [Raspberry Pi, x86 hardware, NAS, home automation]
 ```yaml
 focus: [SOC / Blue Team, Pentesting]
 platforms: [TryHackMe, Hack The Box]
-topics:
-  - reconnaissance & enumeration
-  - networking
-  - linux
-  - web security
-  - SIEM & log analysis
-  - pentest methodology
-approach: understand the protocol, not just memorize the command
 ```
 
 ---
