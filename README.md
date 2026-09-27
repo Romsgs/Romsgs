@@ -72,5 +72,4 @@ Transito entre **música erudita/folk**, **desenvolvimento backend**, **seguran�
 ## ⚡ Conecte-se Comigo
 
 ```bash
-$ ssh romulo@salobrena.dev
 $ echo "Sempre aberto a conversas sobre Dev, Sec, Homelabs ou Arranjos Musicais!"
